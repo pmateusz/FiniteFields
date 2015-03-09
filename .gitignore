@@ -1,0 +1,10 @@
+**/bin
+**/obj
+**/packages
+**/target
+*.suo
+*.dll
+*.exe
+*.user
+*.sdf
+*.opensdf

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FileFields.FiniteFieldsAlgebra.GMath.Implementation.GMathBase">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAgAAAAEAAAAAgAAAAABACAAAAAACQ=</HashCode>
+      <FileName>GMath\Implementation\GMathBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FileFields.FiniteFieldsAlgebra.GMath.Implementation.GMathLogVersion" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEAAAAAAAAAAABAAAAAAAAAAAgAAAAABACIAAAAAAA=</HashCode>
+      <FileName>GMath\Implementation\GMathLogVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileFields.FiniteFieldsAlgebra.GMath.Implementation.GMathShiftVersion" Collapsed="true">
+    <Position X="3" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAQAAAAAAAAgAAAAABACIAgAAACA=</HashCode>
+      <FileName>GMath\Implementation\GMathShiftVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileFields.FiniteFieldsAlgebra.GMath.Implementation.GMathSplitW8Version" Collapsed="true">
+    <Position X="3" Y="7.5" Width="2.25" />
+    <InheritanceLine Type="FileFields.FiniteFieldsAlgebra.GMath.Implementation.GMathShiftVersion" ManuallyRouted="true">
+      <Path>
+        <Point X="4" Y="6.441" />
+        <Point X="4" Y="7.5" />
+        <Point X="4.125" Y="7.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAA=</HashCode>
+      <FileName>GMath\Implementation\GMathSplitW8Version.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileFields.FiniteFieldsAlgebra.GMath.Implementation.GMathTableVersion" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAQAAAAAAAAAAAAAAAABACAAAAAAAA=</HashCode>
+      <FileName>GMath\Implementation\GMathTableVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FileFields.FiniteFieldsAlgebra.GMath.IGMath">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAgAAAAAAAAAAgAAAAAAAAAAAAAACQ=</HashCode>
+      <FileName>GMath\IGMath.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
